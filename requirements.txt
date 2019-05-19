@@ -1,0 +1,15 @@
+discord.py
+PyNaCl
+aiopg
+sqlalchemy
+aiohttp
+requests
+youtube-dl
+dblpy
+ratelimiter
+Pillow
+nyaapy
+psycopg2-binary
+psutil
+uvloop
+git+git://github.com/AWConant/jikanpy.git

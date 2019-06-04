@@ -1,5 +1,7 @@
 # Pinocchio Bot [![Discord Bots](https://discordbots.org/api/widget/status/506878658607054849.svg)](https://discordbots.org/bot/506878658607054849)
 
+README IS INCOMPLETE SINCE I WAS BORED. This is supposed to be a private repo anyway ¯\_(ツ)_/¯.
+
 [![Discord Bots](https://discordbots.org/api/widget/506878658607054849.svg)](https://discordbots.org/bot/506878658607054849)
 
 **Support Server: https://discord.gg/HkN7ReX**
